@@ -1,0 +1,24 @@
+.border {
+  padding: 10px 20px;
+  border-radius: 10px 230px;
+  border: none;
+}
+input:focus {
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+}
+
+.caixaPai {
+  height: 40vh;
+  width: 50vw;
+  background-color: #0f7676;
+  border-radius: 10px 230px;
+}
+
+#bnt {
+  padding: 10px 35px;
+  border: none;
+  border-radius: 5px 50px;
+  cursor: pointer;
+}
